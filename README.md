@@ -2,21 +2,20 @@
 My first application written with swift ui.
 
 ## 🍿 Onboarding View
-| ![](https://i.hizliresim.com/55lnwyr.png) | ![](https://i.hizliresim.com/14eiar6.png) |
+| ![](https://i.ibb.co/0BJ5grd/onboarding-welcome.png) | ![](https://i.ibb.co/DwsVYkG/onboarding-explore.png) |
 |--|--|
-|![](https://i.hizliresim.com/giuvx24.png)|![](https://i.hizliresim.com/cxrelk0.png)|
+|![](https://i.ibb.co/d6Fbj0x/onboarding-details.png)|![](https://i.ibb.co/vqBFQxx/onboarding-use.png)|
+
 ## 🏡 Home View
-|![](https://i.hizliresim.com/43bgjli.png)  |![](https://i.hizliresim.com/juwexxt.png)  |
+|![](https://i.ibb.co/5vMcxkC/home-view.png)  |![](https://i.ibb.co/DpxmZXh/home-categories-view.png)  |
 |--|--|
-
-
 
 ## 🎬 Movie Detail View
-|![](https://i.hizliresim.com/40uvj58.png)  |![](https://i.hizliresim.com/h22ut4n.png)|
+|![](https://i.ibb.co/ZKVq7xK/movie-detail-view.png)  |![](https://i.ibb.co/ggXfXPv/movie-detail-information-view.png)|
 |--|--|
 
 ## 🔎 Search - Person View
-| ![](https://i.hizliresim.com/nflxedm.png) | ![](https://i.hizliresim.com/9q6xmb2.png) |
+| ![](https://i.ibb.co/6ZfCfpr/search-view.png) | ![](https://i.ibb.co/nQvyWQF/search-list-view.png) |
 |--|--|
-| ![](https://i.hizliresim.com/7cyjpn5.png) | ![](https://i.hizliresim.com/9npnlgd.png) |
+| ![](https://i.ibb.co/2gxXsbs/search-not-found-view.png) | ![](https://i.ibb.co/FWQd52B/person-view.png) |
 
