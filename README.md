@@ -1,5 +1,5 @@
 ﻿# Swift UI - Movies App
-My first application written with swift ui.
+My first app developed with SwiftUI
 
 ![](https://github.com/oztsinan/swift-ui-movie-app/blob/main/screenshot/cover.png?raw=true)
 
