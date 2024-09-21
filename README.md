@@ -1,6 +1,9 @@
 ﻿# Swift UI - Movies App
 My first application written with swift ui.
 
+![](https://github.com/oztsinan/swift-ui-movie-app/blob/main/screenshot/cover.png?raw=true)
+
+
 ## 🍿 Onboarding View
 | ![](https://i.ibb.co/0BJ5grd/onboarding-welcome.png) | ![](https://i.ibb.co/DwsVYkG/onboarding-explore.png) |
 |--|--|
