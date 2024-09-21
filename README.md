@@ -11,7 +11,7 @@ My first application written with swift ui.
 |--|--|
 
 ## 🎬 Movie Detail View
-|![](https://i.ibb.co/ZKVq7xK/movie-detail-view.png)  |![](https://i.ibb.co/ggXfXPv/movie-detail-information-view.png)|
+|![](https://github.com/oztsinan/swift-ui-movie-app/blob/main/screenshot/movie-detail-view.png?raw=true)  |![](https://i.ibb.co/ggXfXPv/movie-detail-information-view.png)|
 |--|--|
 
 ## 🔎 Search - Person View
